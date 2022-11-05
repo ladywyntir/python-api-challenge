@@ -68,14 +68,14 @@ Below the analysis was done after both hemispheres were plotted
 <br/><br/>
 
 ### Humidity (%) vs. Latitude<br/>
-![Image](/Output/north_tempvhumid.png) ![Image](/Output/south_tempvhumid.png)<br/>
+![Image](/Output/north_tempvHumid.png) ![Image](/Output/south_tempvHumid.png)<br/>
 **Analysis - Latitude vs. Humidity Linear Regression for Northern & Southern Hemispheres**
 * The Linear Regression was very similar for the Northern and Southern Hemispheres.
 * There seems to be a lower number of cities in the dataset for the Southern Hemisphere.
 <br/><br/>
 
 ### Cloudiness (%) vs. Latitude<br/>
-![Image](/Output/north_tempvcloud.png) ![Image](/Output/south_tempvcloud.png)<br/>
+![Image](/Output/north_tempvCloud.png) ![Image](/Output/south_tempvCloud.png)<br/>
 **Analysis - Latitude vs. Cloudiness Linear Regression for Northern & Southern Hemispheres**
 * There are extreme outliers for the Cloudiness at 0% and 100% for both Northern and Southern Hemispheres.
 * The Southern Hemisphere shows more of a trend towards more clouds closer to the Equator (Latitude 0).
@@ -83,7 +83,7 @@ Below the analysis was done after both hemispheres were plotted
 <br/><br/>
 
 ### Wind Speed (mph) vs. Latitude<br/>
-![Image](/Output/north_tempvwindspd.png) ![Image](/Output/south_tempvwindspd.png)<br/>
+![Image](/Output/north_tempvWindSpd.png) ![Image](/Output/south_tempvWindSpd.png)<br/>
 **Analysis - Latitude vs. Wind Speed Linear Regression for Northern & Southern Hemispheres**
 * The Northern Hemisphere's city's Wind Speed don't often to go above 15 MPH.
 * The Sothern Hemisphere's Wind Speed seems to lessen as you get closer to the Equator (Latitude 0).
